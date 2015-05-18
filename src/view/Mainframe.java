@@ -23,7 +23,7 @@ private JPanel centerPanel;
         centerPanel.setLayout(new GridLayout(1,2));
         JPanel leftPanel =new JPanel();
         JPanel rightPanel =new JPanel();
-        centerPanel.add(leftPanel);
+        centerPanel.add(leftPanel);gfhf
         centerPanel.add(rightPanel);
         //define a border to the left subPanel
         leftPanel.setBorder(BorderFactory.createEtchedBorder());
